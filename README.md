@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sai Teja Adapa 👋
 
-<!--
-**sai-teja-adapa/sai-teja-adapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Supply Chain Analyst with 4+ years of experience in demand and supply planning, MRP, inventory control and procurement.
 
-Here are some ideas to get you started:
+I use data to improve inventory availability, supplier performance and service levels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools
+SQL · Python · Power BI · Advanced Excel · Power Query · SAP S/4HANA · SAP IBP/APO · Oracle ERP Cloud
+
+### 📂 Projects
+Portfolio projects using public and sample data (coming soon):
+- Demand forecasting and forecast accuracy (Python)
+- Safety stock and reorder point calculator
+- Supply chain KPI dashboard (Power BI)
+- Inventory reconciliation (SQL)
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/sai-teja-adapa)
